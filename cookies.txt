@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zombs.io	TRUE	/	FALSE	1999999999	app-session	fgr0430ml5aqno65ppn7kgc7j1
+.nitropay.com	TRUE	/	FALSE	1999999999	__cf_bm	LfgrtlpGiR9mZBOUVr9RnTqWrLFjCb.Glt258Ctgxxk-1643760930-0-AVLqAaWaHQuC2e8tlve4QfafrqM0V6IimFXLDlBHyXBnM0v8sSL/DdTqlfsFb3szWTGreNoxTtnQGXSIga3r5hQ=
+s.nitropay.com	TRUE	/	FALSE	1999999999	SameSite	None
+.zombs.io	TRUE	/	FALSE	1999999999	__cf_bm	ED213EL6eBeH3JOrKFVqzwVKDkfJT3L1wd5n6LvvBiw-1643760963-0-AWNtobuoJgzwFMfFKqIKzmlIpAwAnyVY+JGBxwIWp3ML6AF8vjBk1Gy5oNL7aPZTHm4qXNJ5cKUgk7q3BHsec/AtW6rx1B9hploClf5YgLtA
+zombs.io	TRUE	/	FALSE	1999999999	SameSite	None
+
